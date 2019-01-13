@@ -20,9 +20,9 @@ alias snext='spotify next'
 alias sprev='spotify prev'
 alias synthwave='spotify play uri spotify:user:dj.jrkface:playlist:0HhLpehIcYpXYDCJ3CFeAN'
 alias jp2ac='jp2a --chars=.,-+=\:\;cnxw\$UHX#%@W'
-alias news='newsbeuter -r'
+alias news='newsboat -r'
 alias newsdocs='open https://newsbeuter.org/doc/newsbeuter.html'
-alias newrss='vim /Users/jowens/.newsbeuter/urls'
+alias newrss='vim /Users/jowens/.newsboat/urls'
 alias newds='cookiecutter https://github.com/drivendata/cookiecutter-data-science'
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
